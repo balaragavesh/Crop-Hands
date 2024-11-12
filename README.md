@@ -39,12 +39,6 @@ Ensure you have **Python 3.x** installed. The project requires some libraries, w
 
 - **Adjusting crop size**: You can modify the cropping margin around the hand by updating the parameters in the script.
 
-## Future Improvements
-
-- **Real-time cropping**: Extend the script to support real-time video feeds for live hand detection and cropping.
-- **Multi-hand support**: Improve the script to handle multiple hands more effectively and save each hand as a separate cropped image.
-- **Additional preprocessing**: Add options for resizing, normalizing, or enhancing the cropped images for specific model requirements.
-
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve this project.
